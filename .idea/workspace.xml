@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="256d4c9f-63c7-42c4-a0d5-d7d8aee6d791" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/CheckOut.java" afterPath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/CheckOut.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/LetsTalkTea.java" afterPath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/LetsTalkTea.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/Menu.java" afterPath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/Menu.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/OurPassion.java" afterPath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/OurPassion.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium.java" afterPath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/PracticeSelenium.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/Welcome.java" afterPath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/Welcome.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PracticeSelenium/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../PracticeSelenium/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../PracticeSelenium/out/" />
@@ -192,7 +186,7 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="PackagesPane" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -559,9 +553,6 @@
     <history-entry file="All_in_PracticeSelenium - 2018.01.06 at 22h 25m 42s.xml">
       <configuration name="All in PracticeSelenium" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OurPassion - 2018.01.06 at 22h 14m 00s.xml">
-      <configuration name="OurPassion" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="OurPassion - 2018.01.06 at 22h 14m 53s.xml">
       <configuration name="OurPassion" configurationId="JUnit" />
     </history-entry>
@@ -575,6 +566,9 @@
       <configuration name="PracticeSelenium in PracticeSelenium" configurationId="JUnit" />
     </history-entry>
     <history-entry file="PracticeSelenium_in_PracticeSelenium - 2018.01.06 at 22h 41m 19s.xml">
+      <configuration name="PracticeSelenium in PracticeSelenium" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PracticeSelenium_in_PracticeSelenium - 2018.01.06 at 22h 42m 56s.xml">
       <configuration name="PracticeSelenium in PracticeSelenium" configurationId="JUnit" />
     </history-entry>
     <history-entry file="Welcome - 2018.01.06 at 22h 33m 50s.xml">
