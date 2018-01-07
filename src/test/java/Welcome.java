@@ -6,7 +6,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class OurPassion extends PracticeSelenium
+public class Welcome
 {
     private static WebDriver driver;
     private static PracticeSelenium page;
@@ -19,9 +19,8 @@ public class OurPassion extends PracticeSelenium
 
         driver = new ChromeDriver();
         driver.get("http://www.practiceselenium.com/");
-
-        driver.findElement(By.linkText("Our Passion")).click();
     }
+
 
     @AfterClass
     public static void tearDown() {
@@ -33,7 +32,7 @@ public class OurPassion extends PracticeSelenium
     {
         String title = driver.getTitle();
 
-        Assert.assertEquals(true, title.contains("Our Passion"));
+        Assert.assertEquals(true, title.contains("Welcome"));
     }
 
     @Test

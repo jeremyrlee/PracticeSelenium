@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="256d4c9f-63c7-42c4-a0d5-d7d8aee6d791" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/Welcome.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PracticeSelenium/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../PracticeSelenium/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/OurPassion.java" afterPath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/OurPassion.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium.java" afterPath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../PracticeSelenium/out/" />
     <ignored path="$PROJECT_DIR$/../PracticeSelenium/target/" />
@@ -15,13 +17,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PracticeSelenium.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium.java">
+      <file leaf-file-name="OurPassion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/OurPassion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="55" lean-forward="false" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+            <state relative-caret-position="395">
+              <caret line="66" column="5" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="66" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#982#983#0" expanded="true" />
+                <element signature="e#1023#1024#0" expanded="true" />
+                <element signature="e#1074#1075#0" expanded="true" />
+                <element signature="e#1118#1119#0" expanded="true" />
+                <element signature="e#1163#1164#0" expanded="true" />
+                <element signature="e#1201#1202#0" expanded="true" />
+                <element signature="e#1253#1254#0" expanded="true" />
+                <element signature="e#1298#1299#0" expanded="true" />
+                <element signature="e#1347#1348#0" expanded="true" />
+                <element signature="e#1389#1390#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Welcome.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/Welcome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#886#887#0" expanded="true" />
+                <element signature="e#927#928#0" expanded="true" />
+                <element signature="e#978#979#0" expanded="true" />
+                <element signature="e#1022#1023#0" expanded="true" />
+                <element signature="e#1067#1068#0" expanded="true" />
+                <element signature="e#1105#1106#0" expanded="true" />
+                <element signature="e#1157#1158#0" expanded="true" />
+                <element signature="e#1202#1203#0" expanded="true" />
+                <element signature="e#1251#1252#0" expanded="true" />
+                <element signature="e#1293#1294#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -49,7 +83,9 @@
       <list>
         <option value="$PROJECT_DIR$/../PracticeSelenium/pom.xml" />
         <option value="$PROJECT_DIR$/../PracticeSelenium/.gitignore" />
+        <option value="$PROJECT_DIR$/../PracticeSelenium/src/test/java/OurPassion.java" />
         <option value="$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium.java" />
+        <option value="$PROJECT_DIR$/../PracticeSelenium/src/test/java/Welcome.java" />
       </list>
     </option>
   </component>
@@ -133,7 +169,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PracticeSelenium">
+  <component name="RunManager" selected="JUnit.All in PracticeSelenium">
+    <configuration name="All in PracticeSelenium" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="PracticeSelenium" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="OurPassion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="PracticeSelenium" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OurPassion" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="OurPassion.checkWelcome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="PracticeSelenium" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OurPassion" />
+      <option name="METHOD_NAME" value="checkWelcome" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration name="PracticeSelenium" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="PracticeSelenium" />
@@ -162,26 +258,6 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="PracticeSelenium" />
       <option name="METHOD_NAME" value="checkOurPassion" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="PracticeSelenium.checkWelcome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="PracticeSelenium" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PracticeSelenium" />
-      <option name="METHOD_NAME" value="checkWelcome" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -274,16 +350,20 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="3">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.PracticeSelenium" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.PracticeSelenium.checkWelcome" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.PracticeSelenium.checkOurPassion" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.PracticeSelenium.checkOurPassion" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.OurPassion" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.OurPassion.checkWelcome" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.All in PracticeSelenium" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.PracticeSelenium" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.PracticeSelenium.checkOurPassion" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.PracticeSelenium.checkWelcome" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.All in PracticeSelenium" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.OurPassion" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.OurPassion.checkWelcome" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.PracticeSelenium" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.PracticeSelenium.checkOurPassion" />
       </list>
     </recent_temporary>
   </component>
@@ -314,35 +394,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PracticeSelenium - 2018.01.06 at 20h 36m 18s.xml">
-      <configuration name="PracticeSelenium" configurationId="JUnit" />
+    <history-entry file="All_in_PracticeSelenium - 2018.01.06 at 22h 19m 50s.xml">
+      <configuration name="All in PracticeSelenium" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PracticeSelenium - 2018.01.06 at 21h 21m 23s.xml">
-      <configuration name="PracticeSelenium" configurationId="JUnit" />
+    <history-entry file="OurPassion - 2018.01.06 at 21h 40m 51s.xml">
+      <configuration name="OurPassion" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PracticeSelenium - 2018.01.06 at 21h 24m 20s.xml">
-      <configuration name="PracticeSelenium" configurationId="JUnit" />
+    <history-entry file="OurPassion - 2018.01.06 at 21h 56m 27s.xml">
+      <configuration name="OurPassion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OurPassion - 2018.01.06 at 22h 03m 33s.xml">
+      <configuration name="OurPassion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OurPassion - 2018.01.06 at 22h 04m 11s.xml">
+      <configuration name="OurPassion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OurPassion - 2018.01.06 at 22h 14m 00s.xml">
+      <configuration name="OurPassion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OurPassion - 2018.01.06 at 22h 14m 53s.xml">
+      <configuration name="OurPassion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OurPassion - 2018.01.06 at 22h 16m 37s.xml">
+      <configuration name="OurPassion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OurPassion_checkWelcome - 2018.01.06 at 22h 12m 52s.xml">
+      <configuration name="OurPassion.checkWelcome" configurationId="JUnit" />
     </history-entry>
     <history-entry file="PracticeSelenium - 2018.01.06 at 21h 27m 08s.xml">
       <configuration name="PracticeSelenium" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PracticeSelenium_checkOurPassion - 2018.01.06 at 21h 12m 48s.xml">
-      <configuration name="PracticeSelenium.checkOurPassion" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PracticeSelenium_checkWelcome - 2018.01.06 at 20h 37m 38s.xml">
-      <configuration name="PracticeSelenium.checkWelcome" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PracticeSelenium_checkWelcome - 2018.01.06 at 20h 50m 52s.xml">
-      <configuration name="PracticeSelenium.checkWelcome" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PracticeSelenium_checkWelcome - 2018.01.06 at 20h 51m 27s.xml">
-      <configuration name="PracticeSelenium.checkWelcome" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PracticeSelenium_checkWelcome - 2018.01.06 at 21h 00m 35s.xml">
-      <configuration name="PracticeSelenium.checkWelcome" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PracticeSelenium_checkWelcome - 2018.01.06 at 21h 01m 15s.xml">
-      <configuration name="PracticeSelenium.checkWelcome" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -356,12 +436,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.50250626" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.49749374" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32898173" sideWeight="0.49749374" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -404,14 +484,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/OurPassion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/Menu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -436,20 +508,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/Welcome.java">
+    <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-          <folding />
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium.java">
+    <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/OurPassion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="55" lean-forward="false" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+        <state relative-caret-position="395">
+          <caret line="66" column="5" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="66" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#982#983#0" expanded="true" />
+            <element signature="e#1023#1024#0" expanded="true" />
+            <element signature="e#1074#1075#0" expanded="true" />
+            <element signature="e#1118#1119#0" expanded="true" />
+            <element signature="e#1163#1164#0" expanded="true" />
+            <element signature="e#1201#1202#0" expanded="true" />
+            <element signature="e#1253#1254#0" expanded="true" />
+            <element signature="e#1298#1299#0" expanded="true" />
+            <element signature="e#1347#1348#0" expanded="true" />
+            <element signature="e#1389#1390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/Welcome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#886#887#0" expanded="true" />
+            <element signature="e#927#928#0" expanded="true" />
+            <element signature="e#978#979#0" expanded="true" />
+            <element signature="e#1022#1023#0" expanded="true" />
+            <element signature="e#1067#1068#0" expanded="true" />
+            <element signature="e#1105#1106#0" expanded="true" />
+            <element signature="e#1157#1158#0" expanded="true" />
+            <element signature="e#1202#1203#0" expanded="true" />
+            <element signature="e#1251#1252#0" expanded="true" />
+            <element signature="e#1293#1294#0" expanded="true" />
           </folding>
         </state>
       </provider>
