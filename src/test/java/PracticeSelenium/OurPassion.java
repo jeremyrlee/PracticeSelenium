@@ -8,14 +8,12 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class OurPassion
-{
+public class OurPassion {
     private static WebDriver driver;
     private static PracticeSelenium page;
 
     @BeforeClass
-    public static void setUp()
-    {
+    public static void setUp() {
         page = new PracticeSelenium();
         System.setProperty("webdriver.chrome.driver", "C:\\chromedriver.exe");
 
@@ -31,40 +29,34 @@ public class OurPassion
     }
 
     @Test
-    public void checkTitle()
-    {
+    public void checkTitle() {
         String title = driver.getTitle();
 
         Assert.assertEquals(true, title.contains("Our Passion"));
     }
 
     @Test
-    public void checkWelcome()
-    {
+    public void checkWelcome() {
         page.checkWelcome(driver);
     }
 
     @Test
-    public void checkOurPassion()
-    {
+    public void checkOurPassion() {
         page.checkOurPassion(driver);
     }
 
     @Test
-    public void checkMenu()
-    {
+    public void checkMenu() {
         page.checkMenu(driver);
     }
 
     @Test
-    public void checkLetsTalkTea()
-    {
+    public void checkLetsTalkTea() {
         page.checkLetsTalkTea(driver);
     }
 
     @Test
-    public void checkCheckOut()
-    {
+    public void checkCheckOut() {
         page.checkCheckOut(driver);
     }
 }
