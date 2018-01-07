@@ -1,3 +1,5 @@
+package PracticeSelenium;
+
 import org.junit.AfterClass;
 import org.junit.Assert;
 import org.junit.BeforeClass;
@@ -6,7 +8,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class OurPassion extends PracticeSelenium
+public class OurPassion
 {
     private static WebDriver driver;
     private static PracticeSelenium page;

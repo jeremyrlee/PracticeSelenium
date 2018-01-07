@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="256d4c9f-63c7-42c4-a0d5-d7d8aee6d791" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/CheckOut.java" afterPath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/CheckOut.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/LetsTalkTea.java" afterPath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/LetsTalkTea.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/Menu.java" afterPath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/Menu.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/OurPassion.java" afterPath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/OurPassion.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium.java" afterPath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/PracticeSelenium.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/Welcome.java" afterPath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/Welcome.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PracticeSelenium/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../PracticeSelenium/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/CheckOut.java" afterPath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/CheckOut.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/LetsTalkTea.java" afterPath="$PROJECT_DIR$/../PracticeSelenium/src/test/java/LetsTalkTea.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../PracticeSelenium/out/" />
     <ignored path="$PROJECT_DIR$/../PracticeSelenium/target/" />
@@ -18,76 +22,68 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="OurPassion.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/OurPassion.java">
+        <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/OurPassion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="63" />
+            <state relative-caret-position="374">
+              <caret line="22" column="55" lean-forward="true" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#982#983#0" expanded="true" />
-                <element signature="e#1023#1024#0" expanded="true" />
-                <element signature="e#1074#1075#0" expanded="true" />
-                <element signature="e#1118#1119#0" expanded="true" />
-                <element signature="e#1163#1164#0" expanded="true" />
-                <element signature="e#1201#1202#0" expanded="true" />
-                <element signature="e#1253#1254#0" expanded="true" />
-                <element signature="e#1298#1299#0" expanded="true" />
-                <element signature="e#1347#1348#0" expanded="true" />
-                <element signature="e#1389#1390#0" expanded="true" />
+                <element signature="e#984#985#0" expanded="true" />
+                <element signature="e#1025#1026#0" expanded="true" />
+                <element signature="e#1076#1077#0" expanded="true" />
+                <element signature="e#1120#1121#0" expanded="true" />
+                <element signature="e#1165#1166#0" expanded="true" />
+                <element signature="e#1203#1204#0" expanded="true" />
+                <element signature="e#1255#1256#0" expanded="true" />
+                <element signature="e#1300#1301#0" expanded="true" />
+                <element signature="e#1349#1350#0" expanded="true" />
+                <element signature="e#1391#1392#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PracticeSelenium.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/PracticeSelenium.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="46" lean-forward="false" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Welcome.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/Welcome.java">
+        <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/Welcome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="41" />
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#855#856#0" expanded="true" />
-                <element signature="e#896#897#0" expanded="true" />
-                <element signature="e#947#948#0" expanded="true" />
-                <element signature="e#991#992#0" expanded="true" />
-                <element signature="e#1036#1037#0" expanded="true" />
-                <element signature="e#1074#1075#0" expanded="true" />
-                <element signature="e#1126#1127#0" expanded="true" />
-                <element signature="e#1171#1172#0" expanded="true" />
-                <element signature="e#1220#1221#0" expanded="true" />
-                <element signature="e#1262#1263#0" expanded="true" />
+                <element signature="e#648#649#0" expanded="true" />
+                <element signature="e#677#678#0" expanded="true" />
+                <element signature="e#882#883#0" expanded="true" />
+                <element signature="e#923#924#0" expanded="true" />
+                <element signature="e#974#975#0" expanded="true" />
+                <element signature="e#1018#1019#0" expanded="true" />
+                <element signature="e#1063#1064#0" expanded="true" />
+                <element signature="e#1101#1102#0" expanded="true" />
+                <element signature="e#1153#1154#0" expanded="true" />
+                <element signature="e#1198#1199#0" expanded="true" />
+                <element signature="e#1247#1248#0" expanded="true" />
+                <element signature="e#1289#1290#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Menu.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/Menu.java">
+        <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/Menu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#938#939#0" expanded="true" />
-                <element signature="e#979#980#0" expanded="true" />
-                <element signature="e#1030#1031#0" expanded="true" />
-                <element signature="e#1074#1075#0" expanded="true" />
-                <element signature="e#1119#1120#0" expanded="true" />
-                <element signature="e#1157#1158#0" expanded="true" />
-                <element signature="e#1209#1210#0" expanded="true" />
-                <element signature="e#1254#1255#0" expanded="true" />
-                <element signature="e#1303#1304#0" expanded="true" />
-                <element signature="e#1345#1346#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LetsTalkTea.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/LetsTalkTea.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <state relative-caret-position="238">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#965#966#0" expanded="true" />
@@ -105,23 +101,45 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CheckOut.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/CheckOut.java">
+      <file leaf-file-name="LetsTalkTea.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/LetsTalkTea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+            <state relative-caret-position="221">
+              <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#952#953#0" expanded="true" />
-                <element signature="e#993#994#0" expanded="true" />
-                <element signature="e#1044#1045#0" expanded="true" />
-                <element signature="e#1088#1089#0" expanded="true" />
-                <element signature="e#1133#1134#0" expanded="true" />
-                <element signature="e#1171#1172#0" expanded="true" />
-                <element signature="e#1223#1224#0" expanded="true" />
-                <element signature="e#1268#1269#0" expanded="true" />
-                <element signature="e#1317#1318#0" expanded="true" />
-                <element signature="e#1359#1360#0" expanded="true" />
+                <element signature="e#992#993#0" expanded="true" />
+                <element signature="e#1033#1034#0" expanded="true" />
+                <element signature="e#1084#1085#0" expanded="true" />
+                <element signature="e#1128#1129#0" expanded="true" />
+                <element signature="e#1173#1174#0" expanded="true" />
+                <element signature="e#1211#1212#0" expanded="true" />
+                <element signature="e#1263#1264#0" expanded="true" />
+                <element signature="e#1308#1309#0" expanded="true" />
+                <element signature="e#1357#1358#0" expanded="true" />
+                <element signature="e#1399#1400#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CheckOut.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/CheckOut.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#979#980#0" expanded="true" />
+                <element signature="e#1020#1021#0" expanded="true" />
+                <element signature="e#1071#1072#0" expanded="true" />
+                <element signature="e#1115#1116#0" expanded="true" />
+                <element signature="e#1160#1161#0" expanded="true" />
+                <element signature="e#1198#1199#0" expanded="true" />
+                <element signature="e#1250#1251#0" expanded="true" />
+                <element signature="e#1295#1296#0" expanded="true" />
+                <element signature="e#1344#1345#0" expanded="true" />
+                <element signature="e#1386#1387#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -149,12 +167,18 @@
       <list>
         <option value="$PROJECT_DIR$/../PracticeSelenium/pom.xml" />
         <option value="$PROJECT_DIR$/../PracticeSelenium/.gitignore" />
-        <option value="$PROJECT_DIR$/../PracticeSelenium/src/test/java/OurPassion.java" />
         <option value="$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium.java" />
         <option value="$PROJECT_DIR$/../PracticeSelenium/src/test/java/Welcome.java" />
         <option value="$PROJECT_DIR$/../PracticeSelenium/src/test/java/Menu.java" />
         <option value="$PROJECT_DIR$/../PracticeSelenium/src/test/java/LetsTalkTea.java" />
         <option value="$PROJECT_DIR$/../PracticeSelenium/src/test/java/CheckOut.java" />
+        <option value="$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/PracticeSelenium.java" />
+        <option value="$PROJECT_DIR$/../PracticeSelenium/src/test/java/OurPassion.java" />
+        <option value="$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/OurPassion.java" />
+        <option value="$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/Welcome.java" />
+        <option value="$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/Menu.java" />
+        <option value="$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/LetsTalkTea.java" />
+        <option value="$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/CheckOut.java" />
       </list>
     </option>
   </component>
@@ -168,7 +192,7 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="PackagesPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -213,18 +237,69 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PracticeSelenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticeSelenium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticeSelenium" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Tests">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="PracticeSelenium" type="cbb8eebc:String" user="PracticeSelenium" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="PracticeSelenium" type="cbb8eebc:String" user="PracticeSelenium" />
+              <item name="src/test/java" type="cbb8eebc:String" user="src/test/java" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="PracticeSelenium" type="cbb8eebc:String" user="PracticeSelenium" />
+              <item name="src/test/java" type="cbb8eebc:String" user="src/test/java" />
+              <item name="PracticeSelenium" type="cbb8eebc:String" user="PracticeSelenium" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PracticeSelenium" type="58d84e3e:PackageViewProjectNode" />
+              <item name="PracticeSelenium" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="PracticeSelenium" type="58d84e3e:PackageViewProjectNode" />
+              <item name="PracticeSelenium" type="616d4139:PackageViewModuleNode" />
+              <item name="PracticeSelenium" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="PracticeSelenium" />
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -238,7 +313,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in PracticeSelenium">
+  <component name="RunManager" selected="JUnit.PracticeSelenium in PracticeSelenium">
     <configuration name="All in PracticeSelenium" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="PracticeSelenium" />
@@ -259,33 +334,13 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="OurPassion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="PracticeSelenium" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="OurPassion" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration name="OurPassion.checkWelcome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="PracticeSelenium" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="OurPassion" />
+      <option name="PACKAGE_NAME" value="PracticeSelenium" />
+      <option name="MAIN_CLASS_NAME" value="PracticeSelenium.OurPassion" />
       <option name="METHOD_NAME" value="checkWelcome" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -299,13 +354,43 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="PracticeSelenium" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <configuration name="PracticeSelenium in PracticeSelenium" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="PracticeSelenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <module name="PracticeSelenium" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PracticeSelenium" />
+      <option name="PACKAGE_NAME" value="PracticeSelenium" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Welcome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="PracticeSelenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="PracticeSelenium" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="PracticeSelenium" />
+      <option name="MAIN_CLASS_NAME" value="PracticeSelenium.Welcome" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -319,14 +404,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="PracticeSelenium.checkOurPassion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <configuration name="Welcome.checkWelcome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="PracticeSelenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <module name="PracticeSelenium" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PracticeSelenium" />
-      <option name="METHOD_NAME" value="checkOurPassion" />
+      <option name="PACKAGE_NAME" value="PracticeSelenium" />
+      <option name="MAIN_CLASS_NAME" value="PracticeSelenium.Welcome" />
+      <option name="METHOD_NAME" value="checkWelcome" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -420,19 +510,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.PracticeSelenium" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.PracticeSelenium.checkOurPassion" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.OurPassion" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.OurPassion.checkWelcome" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.All in PracticeSelenium" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.OurPassion.checkWelcome" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.All in PracticeSelenium" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.PracticeSelenium in PracticeSelenium" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.Welcome" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Welcome.checkWelcome" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.All in PracticeSelenium" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.OurPassion" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PracticeSelenium in PracticeSelenium" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Welcome.checkWelcome" />
         <item index="2" class="java.lang.String" itemvalue="JUnit.OurPassion.checkWelcome" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.PracticeSelenium" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.PracticeSelenium.checkOurPassion" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.Welcome" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.All in PracticeSelenium" />
       </list>
     </recent_temporary>
   </component>
@@ -466,17 +556,8 @@
     <history-entry file="All_in_PracticeSelenium - 2018.01.06 at 22h 19m 50s.xml">
       <configuration name="All in PracticeSelenium" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OurPassion - 2018.01.06 at 21h 40m 51s.xml">
-      <configuration name="OurPassion" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OurPassion - 2018.01.06 at 21h 56m 27s.xml">
-      <configuration name="OurPassion" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OurPassion - 2018.01.06 at 22h 03m 33s.xml">
-      <configuration name="OurPassion" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OurPassion - 2018.01.06 at 22h 04m 11s.xml">
-      <configuration name="OurPassion" configurationId="JUnit" />
+    <history-entry file="All_in_PracticeSelenium - 2018.01.06 at 22h 25m 42s.xml">
+      <configuration name="All in PracticeSelenium" configurationId="JUnit" />
     </history-entry>
     <history-entry file="OurPassion - 2018.01.06 at 22h 14m 00s.xml">
       <configuration name="OurPassion" configurationId="JUnit" />
@@ -487,16 +568,24 @@
     <history-entry file="OurPassion - 2018.01.06 at 22h 16m 37s.xml">
       <configuration name="OurPassion" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="OurPassion_checkWelcome - 2018.01.06 at 22h 12m 52s.xml">
+    <history-entry file="OurPassion_checkWelcome - 2018.01.06 at 22h 34m 53s.xml">
       <configuration name="OurPassion.checkWelcome" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PracticeSelenium - 2018.01.06 at 21h 27m 08s.xml">
-      <configuration name="PracticeSelenium" configurationId="JUnit" />
+    <history-entry file="PracticeSelenium_in_PracticeSelenium - 2018.01.06 at 22h 33m 04s.xml">
+      <configuration name="PracticeSelenium in PracticeSelenium" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PracticeSelenium_in_PracticeSelenium - 2018.01.06 at 22h 41m 19s.xml">
+      <configuration name="PracticeSelenium in PracticeSelenium" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Welcome - 2018.01.06 at 22h 33m 50s.xml">
+      <configuration name="Welcome" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Welcome_checkWelcome - 2018.01.06 at 22h 37m 20s.xml">
+      <configuration name="Welcome.checkWelcome" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="156" y="73" width="1612" height="876" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -511,7 +600,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -538,14 +627,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../PracticeSelenium/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../PracticeSelenium/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -554,80 +635,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium.java">
+    <entry file="file://$PROJECT_DIR$/../PracticeSelenium/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="391">
+          <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/OurPassion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="55" lean-forward="true" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#984#985#0" expanded="true" />
+            <element signature="e#1025#1026#0" expanded="true" />
+            <element signature="e#1076#1077#0" expanded="true" />
+            <element signature="e#1120#1121#0" expanded="true" />
+            <element signature="e#1165#1166#0" expanded="true" />
+            <element signature="e#1203#1204#0" expanded="true" />
+            <element signature="e#1255#1256#0" expanded="true" />
+            <element signature="e#1300#1301#0" expanded="true" />
+            <element signature="e#1349#1350#0" expanded="true" />
+            <element signature="e#1391#1392#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/PracticeSelenium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="46" lean-forward="false" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/Welcome.java">
+    <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/Welcome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="41" />
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#855#856#0" expanded="true" />
-            <element signature="e#896#897#0" expanded="true" />
-            <element signature="e#947#948#0" expanded="true" />
-            <element signature="e#991#992#0" expanded="true" />
-            <element signature="e#1036#1037#0" expanded="true" />
-            <element signature="e#1074#1075#0" expanded="true" />
-            <element signature="e#1126#1127#0" expanded="true" />
-            <element signature="e#1171#1172#0" expanded="true" />
-            <element signature="e#1220#1221#0" expanded="true" />
-            <element signature="e#1262#1263#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#882#883#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#974#975#0" expanded="true" />
+            <element signature="e#1018#1019#0" expanded="true" />
+            <element signature="e#1063#1064#0" expanded="true" />
+            <element signature="e#1101#1102#0" expanded="true" />
+            <element signature="e#1153#1154#0" expanded="true" />
+            <element signature="e#1198#1199#0" expanded="true" />
+            <element signature="e#1247#1248#0" expanded="true" />
+            <element signature="e#1289#1290#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/OurPassion.java">
+    <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/Menu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#982#983#0" expanded="true" />
-            <element signature="e#1023#1024#0" expanded="true" />
-            <element signature="e#1074#1075#0" expanded="true" />
-            <element signature="e#1118#1119#0" expanded="true" />
-            <element signature="e#1163#1164#0" expanded="true" />
-            <element signature="e#1201#1202#0" expanded="true" />
-            <element signature="e#1253#1254#0" expanded="true" />
-            <element signature="e#1298#1299#0" expanded="true" />
-            <element signature="e#1347#1348#0" expanded="true" />
-            <element signature="e#1389#1390#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#938#939#0" expanded="true" />
-            <element signature="e#979#980#0" expanded="true" />
-            <element signature="e#1030#1031#0" expanded="true" />
-            <element signature="e#1074#1075#0" expanded="true" />
-            <element signature="e#1119#1120#0" expanded="true" />
-            <element signature="e#1157#1158#0" expanded="true" />
-            <element signature="e#1209#1210#0" expanded="true" />
-            <element signature="e#1254#1255#0" expanded="true" />
-            <element signature="e#1303#1304#0" expanded="true" />
-            <element signature="e#1345#1346#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/LetsTalkTea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#965#966#0" expanded="true" />
@@ -644,22 +715,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/CheckOut.java">
+    <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/LetsTalkTea.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="221">
+          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#952#953#0" expanded="true" />
-            <element signature="e#993#994#0" expanded="true" />
-            <element signature="e#1044#1045#0" expanded="true" />
-            <element signature="e#1088#1089#0" expanded="true" />
-            <element signature="e#1133#1134#0" expanded="true" />
-            <element signature="e#1171#1172#0" expanded="true" />
-            <element signature="e#1223#1224#0" expanded="true" />
-            <element signature="e#1268#1269#0" expanded="true" />
-            <element signature="e#1317#1318#0" expanded="true" />
-            <element signature="e#1359#1360#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+            <element signature="e#1033#1034#0" expanded="true" />
+            <element signature="e#1084#1085#0" expanded="true" />
+            <element signature="e#1128#1129#0" expanded="true" />
+            <element signature="e#1173#1174#0" expanded="true" />
+            <element signature="e#1211#1212#0" expanded="true" />
+            <element signature="e#1263#1264#0" expanded="true" />
+            <element signature="e#1308#1309#0" expanded="true" />
+            <element signature="e#1357#1358#0" expanded="true" />
+            <element signature="e#1399#1400#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PracticeSelenium/src/test/java/PracticeSelenium/CheckOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#979#980#0" expanded="true" />
+            <element signature="e#1020#1021#0" expanded="true" />
+            <element signature="e#1071#1072#0" expanded="true" />
+            <element signature="e#1115#1116#0" expanded="true" />
+            <element signature="e#1160#1161#0" expanded="true" />
+            <element signature="e#1198#1199#0" expanded="true" />
+            <element signature="e#1250#1251#0" expanded="true" />
+            <element signature="e#1295#1296#0" expanded="true" />
+            <element signature="e#1344#1345#0" expanded="true" />
+            <element signature="e#1386#1387#0" expanded="true" />
           </folding>
         </state>
       </provider>

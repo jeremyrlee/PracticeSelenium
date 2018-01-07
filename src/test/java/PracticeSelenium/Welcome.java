@@ -1,12 +1,13 @@
+package PracticeSelenium;
+
 import org.junit.AfterClass;
 import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class CheckOut
+public class Welcome
 {
     private static WebDriver driver;
     private static PracticeSelenium page;
@@ -19,8 +20,6 @@ public class CheckOut
 
         driver = new ChromeDriver();
         driver.get("http://www.practiceselenium.com/");
-
-        driver.findElement(By.linkText("Check Out")).click();
     }
 
 
@@ -34,7 +33,7 @@ public class CheckOut
     {
         String title = driver.getTitle();
 
-        Assert.assertEquals(true, title.contains("Check Out"));
+        Assert.assertEquals(true, title.contains("Welcome"));
     }
 
     @Test
@@ -66,5 +65,4 @@ public class CheckOut
     {
         page.checkCheckOut(driver);
     }
-
 }
